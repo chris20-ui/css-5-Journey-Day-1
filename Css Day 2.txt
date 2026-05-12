@@ -1,0 +1,38 @@
+Css Day 2
+
+
+3 different ways of how we can apply css
+
+
+
+1.	Inline
+2.	
+-through the body
+
+<body style="background-color:black;">
+
+you can design each part with different color
+Ex
+
+<p style="color:white;">  Meow    </p>
+
+<p style="color:violet;"> Arf     </p>
+
+
+2. Internal
+
+After the title put a
+ <style> 
+body{
+background-color:black;
+}
+
+</style>
+
+
+
+
+
+
+
+3. External
